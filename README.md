@@ -6,7 +6,7 @@ My current interests are focused on human motion analysis, artificial intelligen
 I have worked creating Face Recognition systems and ASR systems using Python as main programming language, but also have experience with C# and SQL.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlilkuauhtli&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlilkuauhtli&theme=tokyonight&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlilkuauhtli&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tlilkuauhtli&theme=tokyonight)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tlilkuauhtli&theme=tokyonight&utcOffset=0) -->
